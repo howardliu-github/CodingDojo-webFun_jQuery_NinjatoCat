@@ -1,0 +1,9 @@
+* {
+    margin: 0 auto;
+    width: 400px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    padding: 10px;
+}
